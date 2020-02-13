@@ -1,0 +1,11 @@
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netstandard2.0\ComedyEvents.Infrastructure.deps.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netstandard2.0\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netstandard2.0\ComedyEvents.Infrastructure.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netstandard2.0\ComedyEvents.Infrastructure.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netstandard2.0\ComedyEvents.Infrastructure.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netstandard2.0\ComedyEvents.Infrastructure.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netstandard2.0\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netstandard2.0\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netstandard2.0\ComedyEvents.Infrastructure.csproj.CopyComplete
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netstandard2.0\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netstandard2.0\ComedyEvents.Infrastructure.pdb

@@ -1,0 +1,11 @@
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.deps.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\obj\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\obj\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\obj\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\obj\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.csproj.CopyComplete
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\obj\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure.Petapoco\obj\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.pdb

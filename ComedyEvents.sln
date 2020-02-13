@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComedyEvents.API", "ComedyEvents.API\ComedyEvents.API.csproj", "{E1E8D956-06AC-473B-AA8E-00E72E785D5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComedyEvents.Domain", "ComedyEvents.Domain\ComedyEvents.Domain.csproj", "{F586343F-65A3-498E-A4A8-4D94B025F9EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComedyEvents.Infrastructure", "ComedyEvents.Infrastructure\ComedyEvents.Infrastructure.csproj", "{972D9E36-D311-4C22-840A-F1F9D50F5649}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComedyEvents.Services", "ComedyEvents.Services\ComedyEvents.Services.csproj", "{1D1E21C4-27E8-44F7-A55F-6B00D6A925B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComedyEvents.Infrastructure.Petapoco", "ComedyEvents.Infrastructure.Petapoco\ComedyEvents.Infrastructure.Petapoco.csproj", "{11581212-4C00-4F94-8414-65C1EAB52451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E8D956-06AC-473B-AA8E-00E72E785D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E8D956-06AC-473B-AA8E-00E72E785D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E8D956-06AC-473B-AA8E-00E72E785D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E8D956-06AC-473B-AA8E-00E72E785D5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F586343F-65A3-498E-A4A8-4D94B025F9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F586343F-65A3-498E-A4A8-4D94B025F9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F586343F-65A3-498E-A4A8-4D94B025F9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F586343F-65A3-498E-A4A8-4D94B025F9EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972D9E36-D311-4C22-840A-F1F9D50F5649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972D9E36-D311-4C22-840A-F1F9D50F5649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972D9E36-D311-4C22-840A-F1F9D50F5649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972D9E36-D311-4C22-840A-F1F9D50F5649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1E21C4-27E8-44F7-A55F-6B00D6A925B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1E21C4-27E8-44F7-A55F-6B00D6A925B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1E21C4-27E8-44F7-A55F-6B00D6A925B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1E21C4-27E8-44F7-A55F-6B00D6A925B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11581212-4C00-4F94-8414-65C1EAB52451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11581212-4C00-4F94-8414-65C1EAB52451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11581212-4C00-4F94-8414-65C1EAB52451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11581212-4C00-4F94-8414-65C1EAB52451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D0F009-8071-489F-96F2-798C6CD60C11}
+	EndGlobalSection
+EndGlobal

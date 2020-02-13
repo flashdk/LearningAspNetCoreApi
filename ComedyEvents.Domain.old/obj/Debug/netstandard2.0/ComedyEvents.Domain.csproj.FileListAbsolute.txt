@@ -1,0 +1,8 @@
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netstandard2.0\ComedyEvents.Domain.deps.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netstandard2.0\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netstandard2.0\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netstandard2.0\ComedyEvents.Domain.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netstandard2.0\ComedyEvents.Domain.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netstandard2.0\ComedyEvents.Domain.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netstandard2.0\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netstandard2.0\ComedyEvents.Domain.pdb

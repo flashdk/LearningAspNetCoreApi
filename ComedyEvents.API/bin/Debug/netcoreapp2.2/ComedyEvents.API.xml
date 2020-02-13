@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ComedyEvents.API</name>
+    </assembly>
+    <members>
+        <member name="M:ComedyEvents.API.Controllers.ComediansController.Get">
+            <summary>
+            Return list of comedian
+            </summary>
+            <returns>IEnumerable of comedian</returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.ComediansController.AddComedian(ComedyEvents.Domain.Models.Comedian)">
+            <summary>
+            Create a new comedian in data base
+            </summary>
+            <param name="comedian"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.ComediansController.GetById(System.String)">
+            <summary>
+            Retur a single comedian with id  
+            </summary>
+            <param name="id">Id is a Guid</param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.ComediansController.UpdateComedian(System.String,ComedyEvents.Domain.Models.Comedian)">
+            <summary>
+            Update comedian
+            </summary>
+            <param name="id">Is a Guid</param>
+            <param name="comedian"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.ComediansController.DeleteComedian(System.Guid)">
+            <summary>
+            Delete comedian with id
+            </summary>
+            <param name="id">Type is a guid</param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.EventsController.GetAllEvents">
+            <summary>
+            Get all event
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.EventsController.AddEvent(ComedyEvents.Domain.Models.Event)">
+            <summary>
+            Create new Event
+            </summary>
+            <param name="newEvent"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.VenuesController.index">
+            <summary>
+            Get all venues
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.VenuesController.AddVenue(ComedyEvents.Domain.Models.Venue)">
+            <summary>
+            Add new venue in database
+            </summary>
+            <param name="venue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.VenuesController.GetById(System.String)">
+            <summary>
+            Get single venue by Id
+            </summary>
+            <param name="id">Is a guid</param>
+            <returns></returns>
+        </member>
+        <member name="M:ComedyEvents.API.Controllers.VenuesController.UpdateComedian(System.String,ComedyEvents.Domain.Models.Venue)">
+            <summary>
+            Update venue
+            </summary>
+            <param name="id">Is a guid</param>
+            <param name="venue"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

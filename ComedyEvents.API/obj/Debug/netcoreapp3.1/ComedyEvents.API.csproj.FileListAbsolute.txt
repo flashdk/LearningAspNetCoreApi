@@ -1,0 +1,251 @@
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.exe
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.deps.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.runtimeconfig.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.runtimeconfig.dev.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.xml
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Services.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Services.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\staticwebassets\ComedyEvents.API.StaticWebAssets.Manifest.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\staticwebassets\ComedyEvents.API.StaticWebAssets.xml
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.MvcApplicationPartsAssemblyInfo.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.RazorTargetAssemblyInfo.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.csproj.CopyComplete
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.xml
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.exe
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.deps.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.runtimeconfig.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.runtimeconfig.dev.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.API.xml
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\PetaPoco.NetCore.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Pomelo.Data.MySql.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Services.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Services.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\staticwebassets\ComedyEvents.API.StaticWebAssets.Manifest.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\staticwebassets\ComedyEvents.API.StaticWebAssets.xml
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.RazorTargetAssemblyInfo.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.csproj.CopyComplete
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.xml
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\ComedyEvents.Infrastructure.Petapoco.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.MvcApplicationPartsAssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.API\obj\Debug\netcoreapp3.1\ComedyEvents.API.MvcApplicationPartsAssemblyInfo.cache

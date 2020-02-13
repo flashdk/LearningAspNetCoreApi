@@ -1,0 +1,20 @@
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.deps.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.runtimeconfig.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.runtimeconfig.dev.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.deps.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.runtimeconfig.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.runtimeconfig.dev.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\bin\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Domain\obj\Debug\netcoreapp3.1\ComedyEvents.Domain.pdb

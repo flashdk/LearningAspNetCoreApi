@@ -1,0 +1,22 @@
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.deps.json
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.csproj.CopyComplete
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\new\Onion Architecture\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.deps.json
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Domain.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\bin\Debug\netcoreapp2.2\ComedyEvents.Domain.pdb
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.csprojAssemblyReference.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.AssemblyInfoInputs.cache
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.AssemblyInfo.cs
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.csproj.CopyComplete
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.dll
+D:\TESTS\C#\asp.net\ComedyEvents\ComedyEvents.Infrastructure\obj\Debug\netcoreapp2.2\ComedyEvents.Infrastructure.pdb
